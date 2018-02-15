@@ -8,7 +8,10 @@ Safely and helpfully prompt users for input. Supports better formatting for larg
 
 ![Read-ValidInput example](https://i.imgur.com/9YXYHyJ.png)
 
+Install via `Install-Module Read-ValidInput`
 ### ssh
 ssh directly from PowerShell.
 
 ![ssh example](https://i.imgur.com/EKv66pv.png)
+
+Install via `install-module ssh-wrapper`
