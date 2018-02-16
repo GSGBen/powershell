@@ -8,7 +8,7 @@ schema: 2.0.0
 # ssh
 
 ## SYNOPSIS
-Exposes ssh from WSL by wrapping: bash -c "ssh $args"
+Exposes ssh from WSL by wrapping: bash -c "ssh $args". Requires [Windows Subsystem for Linux on Windows 10](https://www.microsoft.com/en-au/store/p/ubuntu/9nblggh4msv6).
 
 ## SYNTAX
 
@@ -17,7 +17,7 @@ ssh
 ```
 
 ## DESCRIPTION
-- Exposes ssh from WSL by wrapping: bash -c "ssh $args".
+- Exposes ssh from WSL by wrapping: bash -c "ssh $args". Requires [Windows Subsystem for Linux on Windows 10](https://www.microsoft.com/en-au/store/p/ubuntu/9nblggh4msv6).
 - Supports all arguments supported by the wrapped ssh.
 
 ## EXAMPLES

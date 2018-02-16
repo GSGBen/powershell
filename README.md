@@ -10,7 +10,7 @@ Safely and helpfully prompt users for input. Supports better formatting for larg
 
 Install via `Install-Module Read-ValidInput`
 ### ssh
-ssh directly from PowerShell.
+(After [Windows Subsystem for Linux is installed on Windows 10](https://www.microsoft.com/en-au/store/p/ubuntu/9nblggh4msv6)) ssh directly from PowerShell.
 
 ![ssh example](https://i.imgur.com/EKv66pv.png)
 

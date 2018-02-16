@@ -1,8 +1,8 @@
 <#
 .synopsis
-  Exposes ssh from WSL by wrapping: bash -c "ssh $args"
+  Exposes ssh from WSL by wrapping: bash -c "ssh $args". Requires Windows Subsystem for Linux on Windows 10.
 .description
-  - Exposes ssh from WSL by wrapping: bash -c "ssh $args".
+  - Exposes ssh from WSL by wrapping: bash -c "ssh $args". Requires Windows Subsystem for Linux on Windows 10.
   - Supports all arguments supported by the wrapped ssh.
 .example
   ssh admin@192.168.1.1
